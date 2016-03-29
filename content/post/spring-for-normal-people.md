@@ -7,7 +7,6 @@ categories:
 - TDD
 - Humans
 date: 2016-01-26T16:53:34-08:00
-draft: true
 short: |
   Learn how to Spring Boot the easy way with TDD and Thymeleaf. All the gain, half the pain!
 title: Spring for Normal People
